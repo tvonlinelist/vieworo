@@ -98,6 +98,8 @@ http://cinematicket.club/cantp.php?c=2373&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bit.png" group-title="Oro", BitMe
 http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mpremier.png" group-title="Oro", Multipremier
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/429/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="Oro", A3 Cine
 http://cinematicket.club/cantp.php?c=3112&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="Oro", TBS
@@ -132,8 +134,6 @@ http://cinematicket.club/cantp.php?c=328&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=335&p=3&k=tecnotv&f=.m3u8    
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="Oro", Cinema
 http://cinematicket.club/cantp.php?c=1787&p=3&k=tecnotv&f=.m3u8 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telem.png" group-title="Oro", Telemundo Internacional
 http://cinematicket.club/cantp.php?c=85&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="Oro", Fox Channel
@@ -150,12 +150,51 @@ http://cinematicket.club/cantp.php?c=57&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=59&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="Oro", FX
 http://cinematicket.club/cantp.php?c=60&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="Platinio", A&E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png" group-title="Oro", A&E
 http://cinematicket.club/cantp.php?c=62&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/axn.png" group-title="Oro", AXN
 http://cinematicket.club/cantp.php?c=64&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png" group-title="Oro", TNT Series
 http://cinematicket.club/cantp.php?c=71&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="HD", Fox Channel (HD)
+http://cinematicket.club/cantp.php?c=201&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="HD", Warner (HD)
+http://cinematicket.club/cantp.php?c=205&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="HD", Universal (HD)
+http://cinematicket.club/cantp.php?c=207&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="HD", FX (HD)
+http://cinematicket.club/cantp.php?c=209&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="Oro", Golden Plus
+http://cinematicket.club/cantp.php?c=122&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="Oro", Golden Edge
+http://cinematicket.club/cantp.php?c=124&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="Oro", Cinecanal
+http://cinematicket.club/cantp.php?c=149&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="Oro", Paramount Network
+http://cinematicket.club/cantp.php?c=1726&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="Oro", HBO
+http://moontools.me:8080/ricardocanales/3fXjbx76t8/23491
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="Oro", HBO 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/280/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="Oro", HBO 2
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/280/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hplus.png" group-title="Oro", HBO Plus
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/282/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hfam.png" group-title="Oro", HBO Family
+http://45.160.73.129:8000/play/a00j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mprime.png" group-title="Oro", HBO Xtreme
+http://45.160.73.129:8000/play/a00i
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="Oro", Fox Premium Action
+http://cinematicket.club/cantp.php?c=336&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcinema.png" group-title="Oro", Fox Premium Cinema
+http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="Oro", Fox Premium Classics
+http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="Oro", Fox Premium Series
+http://cinematicket.club/cantp.php?c=139&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="Oro", Fox Premium Movies 
+http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" group-title="Oro", Glitz
 http://cinematicket.club/cantp.php?c=76&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png" group-title="Oro", ElGourmet
@@ -171,15 +210,7 @@ http://cinematicket.club/cantp.php?c=83&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="Oro", Lifetime
 http://cinematicket.club/cantp.php?c=94&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png" group-title="Oro", Antena 3 Internacional
-http://cinematicket.club/cantp.php?c=199&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="HD", Fox Channel (HD)
-http://cinematicket.club/cantp.php?c=201&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="HD", Warner (HD)
-http://cinematicket.club/cantp.php?c=205&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png" group-title="HD", Universal (HD)
-http://cinematicket.club/cantp.php?c=207&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png" group-title="HD", FX (HD)
-http://cinematicket.club/cantp.php?c=209&p=3&k=tecnotv&f=.m3u8
+http://cinematicket.club/cantp.php?c=199&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png" group-title="HD", TruTV (HD)
 http://cinematicket.club/cantp.php?c=215&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" group-title="Oro", ¡Hola! TV
@@ -195,6 +226,40 @@ http://cinematicket.club/cantp.php?c=2113&p=3&k=tecnotv&f=.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png" group-title="Oro", ESPN
 http://cinematicket.club/cantp.php?c=169&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png" group-title="Oro", ESPN 2
+http://cinematicket.club/cantp.php?c=168&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnsp.png" group-title="Oro", ESPN Deportes | HD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="Oro", ESPN Extra
+http://cinematicket.club/cantp.php?c=167&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="Oro", Fox Sports
+http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="Oro", Fox Sports 2
+http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="Oro", Fox Sports 3
+http://cinematicket.club/cantp.php?c=178&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png" group-title="Oro", Golf Channel
+http://cinematicket.club/cantp.php?c=179&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aym.jpg" group-title="Oro", AYM Sports
+http://cinematicket.club/cantp.php?c=180&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="Oro", TUDN
+http://cinematicket.club/cantp.php?c=1049&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" group-title="Oro", Adrenalina Sports Network
+http://cinematicket.club/cantp.php?c=1799&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/las.png" group-title="Oro", Latin American Sports
+http://cinematicket.club/cantp.php?c=2089&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/havoc.jpg" group-title="Oro", Havoc
+http://cinematicket.club/cantp.php?c=2148&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcd.png" group-title="Oro", TVC Deportes
+http://cinematicket.club/cantp.php?c=2157&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="Oro", Claro Sports
+http://cinematicket.club/cantp.php?c=2564&p=3&k=tecnotv&f=.m3u8  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fuel.png" group-title="Oro", Fuel TV
+http://cinematicket.club/cantp.php?c=2587&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/beinn.png" group-title="Oro", Bein Ñ | HD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="Oro", NFL Network
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="Oro", Investigation Discovery
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93863/12?f=.m3u8 
@@ -237,7 +302,12 @@ http://cinematicket.club/cantp.php?c=221&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png" group-title="Oro", Clic
 http://cinematicket.club/cantp.php?c=223&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vh1e.png" group-title="HD", VH1 Europe (HD)
-http://cinematicket.club/cantp.php?c=334&p=3&k=tecnotv&f=.m3u8  
+http://cinematicket.club/cantp.php?c=334&p=3&k=tecnotv&f=.m3u8 
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/399/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/htv.png" group-title="Oro", HTV
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/401/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vrola.png" group-title="Oro", VideoRola
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/461/12?f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png" group-title="Oro", CNN En Español
 http://cinematicket.club/cantp.php?c=187&p=3&k=tecnotv&f=.m3u8   
@@ -247,33 +317,11 @@ http://cinematicket.club/cantp.php?c=196&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=203&p=3&k=tecnotv&f=.m3u8     
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/finan.png" group-title="Oro", El Financiero Bloomberg 
 http://cinematicket.club/cantp.php?c=1649&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png" group-title="Platino", Golden Plus
-http://cinematicket.club/cantp.php?c=122&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" group-title="Oro", Golden Edge
-http://cinematicket.club/cantp.php?c=124&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" group-title="Oro", Cinecanal
-http://cinematicket.club/cantp.php?c=149&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" group-title="Oro", Paramount Network
-http://cinematicket.club/cantp.php?c=1726&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="Oro", HBO
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97931/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="Oro", HBO
-http://tv.nousiptv.com:8080/Lucy/123456/3199
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/staraction.png" group-title="Oro", Fox Premium Action
-http://cinematicket.club/cantp.php?c=336&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starcinema.png" group-title="TPLEY", Fox Premium Cinema
-http://cinematicket.club/cantp.php?c=1729&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starclassics.png" group-title="TPLEY", Fox Premium Classics
-http://cinematicket.club/cantp.php?c=1732&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starseries.png" group-title="Oro", Fox Premium Series
-http://cinematicket.club/cantp.php?c=139&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starmovies.png" group-title="TPLEY", Fox Premium Movies 
-http://cinematicket.club/cantp.php?c=146&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png" group-title="TPLEY", ESPN Extra
-http://cinematicket.club/cantp.php?c=167&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="TPLEY", Discovery Theater HD
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="Oro", Discovery Theater HD
 http://cinematicket.club/cantp.php?c=95&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="Platino", TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="Oro", TLC
 http://tv.nousiptv.com:8080/dani123/dani123/3256
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="Oro", Discovery World HD
 http://cinematicket.club/cantp.php?c=101&p=3&k=tecnotv&f=.m3u8
@@ -289,6 +337,10 @@ http://cinematicket.club/cantp.php?c=220&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=185&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wobi.png" group-title="Oro", WOBI 
 http://cinematicket.club/cantp.php?c=102&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wapa.png" group-title="Oro", WAPA
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/545/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/exa.png" group-title="Oro", Exa TV
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/foxn.png" group-title="Oro", Fox News
 http://cinematicket.club/cantp.php?c=188&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bloom.png" group-title="Oro", Bloomberg
