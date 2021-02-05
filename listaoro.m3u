@@ -98,8 +98,6 @@ http://cinematicket.club/cantp.php?c=2373&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bit.png" group-title="Oro", BitMe
 http://cinematicket.club/cantp.php?c=2591&p=3&k=tecnotv&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mpremier.png" group-title="Oro", Multipremier
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/429/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png" group-title="Oro", A3 Cine
 http://cinematicket.club/cantp.php?c=3112&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png" group-title="Oro", TBS
@@ -322,7 +320,7 @@ http://cinematicket.club/cantp.php?c=1649&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" group-title="Oro", Discovery Theater HD
 http://cinematicket.club/cantp.php?c=95&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="Oro", TLC
-http://tv.nousiptv.com:8080/dani123/dani123/3256
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/215/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png" group-title="Oro", Discovery World HD
 http://cinematicket.club/cantp.php?c=101&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sci.png" group-title="Oro", Discovery Science
