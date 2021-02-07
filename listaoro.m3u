@@ -272,7 +272,7 @@ http://tv.nousiptv.com:8080/Lucy/123456/16080
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="Oro", Investigation Discovery
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93863/12?f=.m3u8 
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/214/12?f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/garage.png" group-title="Oro", Garage TV 
 http://cinematicket.club/cantp.php?c=75&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="Oro", Discovery
