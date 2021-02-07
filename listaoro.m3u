@@ -267,8 +267,6 @@ http://cinematicket.club/cantp.php?c=2587&p=3&k=tecnotv&f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="Oro", NFL Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZrqVI0.png" group-title="Oro", Afizzionados
-http://tv.nousiptv.com:8080/Lucy/123456/16080
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="Oro", Investigation Discovery
@@ -295,6 +293,8 @@ http://cinematicket.club/cantp.php?c=2145&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/cantp.php?c=2375&p=3&k=tecnotv&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png" group-title="Oro", Discovery Turbo
 http://cinematicket.club/cantp.php?c=2379&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/curio.png" group-title="TPLEY", Curiosity Stream
+http://cinematicket.club/cantp.php?c=2594&p=3&k=tecnotv&f=.m3u8  
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png" group-title="Oro", MTV Live HD
