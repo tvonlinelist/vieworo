@@ -242,8 +242,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94079/12?f=.m3u8
 http://cinematicket.club/cantp.php?c=167&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="Oro", Fox Sports
 http://cinematicket.club/cantp.php?c=170&p=3&k=tecnotv&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" group-title="Oro", Fox Sports HD
-http://xgtv.club:8080/play/TpsoDmK4e6kErvyFgB78h_j9ad871Ve-CJzECRpslHNy09fcD6r36rjC0quCbOlR/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png" group-title="Oro", Fox Sports 2
 http://cinematicket.club/cantp.php?c=172&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" group-title="Oro", Fox Sports 3
@@ -270,8 +268,7 @@ http://cinematicket.club/cantp.php?c=2587&p=3&k=tecnotv&f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/88789/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="Oro", NFL Network
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/574/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yJfGaWHWR7U/X4W7c8KJYkI/AAAAAAAALTU/_BLOTavtRb49zlHt3FSw6-COMH2nT_6ywCLcBGAsYHQ/s0/E%2521%2B%252872%2529.png" group-title="Oro", AFIZZIONADOS
-http://xgtv.club:8080/play/TpsoDmK4e6kErvyFgB78h2PotmXF5-cAf24yXLSJk-w/ts
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="Oro", Investigation Discovery
