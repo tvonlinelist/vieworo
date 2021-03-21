@@ -112,6 +112,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97894/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97895/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" group-title="ORO", Cinemax
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/427/12?f=.m3u8
+#EXTINF:-1 group-title="ORO", Golden
+http://tigeriptv.vip:8080/125/125/99408
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgcpre.png" group-title="ORO", Golden Premier
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/454/12?f=.m3u8
 
@@ -142,8 +144,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/279/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94088/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="ORO", HBO
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97931/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="ORO", HBO (Alt.)
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/281/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole.png" group-title="ORO", HBO
 http://moontools.me:8080/ricardocanales/3fXjbx76t8/23491
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ole2.png" group-title="ORO", HBO 2
@@ -161,6 +161,12 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94094/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4301/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/usaflag.png" group-title="ORO", Starz Family
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4312/12?f=.m3u8
+#EXTINF:-1  group-title="ORO", Cinema Marvel
+http://moontools.me:8080/live/BPN06124/HNU475/1133115.m3u8
+#EXTINF:-1  group-title="ORO", Cinema DC Comics
+http://moontools.me:8080/live/BPN06124/HNU475/1133114.m3u8
+#EXTINF:-1  group-title="ORO", Cinema DC Universe
+http://moontools.me:8080/live/BPN06124/HNU475/1133113.m3u8
 
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="ORO", Cine Club
 https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
