@@ -92,8 +92,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97906/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/227/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png" group-title="ORO", Warner | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97892/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ORO", Star Channel | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/97891/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png" group-title="ORO", Sony Channel | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97896/12?f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM" logo="https://www.televall.online/gallery/sonyhd_thumb.png" group-title="ORO",SONY Channel
@@ -117,6 +115,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/427/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgcpre.png" group-title="ORO", Golden Premier
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/454/12?f=.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" group-title="ORO", Star Channel | HD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/97891/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/starlife.png" group-title="ORO", Star Life
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/229/12?f=.m3u8
 #EXTINF:-1 group-title="TV PREMIUM" logo="https://www.televall.online/gallery/foxlife_thumb.png" group-title="ORO",FOX LIFE
