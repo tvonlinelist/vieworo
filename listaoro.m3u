@@ -62,7 +62,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/223/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png" group-title="ORO", A3 Series
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/458/12?f=.m3u8
 
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-j_2wCJpRlBs/X0QTOy-h68I/AAAAAAAA47k/JLK21FNZEy8o85F8WNJ4QRJwDOwsWvrDQCK8BGAsYHg/s0/2020-08-2" group-title="Oro", MI TV CLASICA
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-j_2wCJpRlBs/X0QTOy-h68I/AAAAAAAA47k/JLK21FNZEy8o85F8WNJ4QRJwDOwsWvrDQCK8BGAsYHg/s0/2020-08-2" group-title="ORO", MI TV CLASICA
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" group-title="ORO", Cinema
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/494/12?f=.m3u8
@@ -162,7 +162,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/4301/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/4312/12?f=.m3u8
 #EXTINF:-1 group-title="ORO" logo="https://www.televall.online/gallery/star-hits_thumb.png",STAR HITS
 http://38.18.238.35:2095/andromeda/FOXMOVIES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8?token=NYkqzqWv10t0ARtGW9pcUQ&expires=1616010684
-#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="Oro", Cine Club
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-s0IKUMAsHJo/X7qWRlxQFoI/AAAAAAAA7kQ/P07ldtCVVOEh-KVOaz8uhVr20VjdDHs0wCK8BGAsYHg/s0/2020-11-22.png" group-title="ORO", Cine Club
 https://Stmv1.zcastbr.com/cineclubtv/cineclubtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/isatarg.png" group-title="ORO", I-Sat
@@ -210,7 +210,7 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/399/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/401/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" group-title="ORO", Bandamax
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/306/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vrola.png" group-title="ORO", VideoRola
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/vrola.png" group-title="ORO", VideOROla
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/461/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.png" group-title="ORO", Teleritmo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97866/12?f=.m3u8
