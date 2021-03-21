@@ -181,8 +181,6 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/94104/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/210/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png" group-title="ORO", Lifetime
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/240/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ORO", Investigation Discovery | HD
-http://157.230.224.200/androidtv/web/app.php/video/playvideo/93863/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nbcuni.png" group-title="ORO", Universo
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/94105/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/estrella.png" group-title="ORO", Estrella TV
@@ -270,6 +268,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/464/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/253/12?f=.m3u8
 #EXTINF: -1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png" group-title="ORO", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w1395939219.m3u8
+#EXTINF:0 group-title="ORO", BitMe
+http://ipeteve.com/php/SR_REGIO200813/tv3.php?c=212_&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png" group-title="ORO", Discovery En Español
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97932/12?f=.m3u8
@@ -277,6 +277,8 @@ http://157.230.224.200/androidtv/web/app.php/video/playvideo/97932/12?f=.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/235/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" group-title="ORO", Animal Planet | HD
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/97929/12?f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png" group-title="ORO", Investigation Discovery | HD
+http://157.230.224.200/androidtv/web/app.php/video/playvideo/93863/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg" group-title="ORO", TLC
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/215/12?f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png" group-title="ORO", Discovery Home & Health | HD
